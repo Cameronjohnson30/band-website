@@ -1,0 +1,29 @@
+.unimportant {
+  font-size: medium;
+
+}
+
+.name {
+  color: blue;
+  font-style: italic;
+  font-weight: bolder;
+
+}
+
+.important {
+  font-weight: bolder;
+}
+
+.sidebar {
+width: 100px;
+float: right;
+background-color: lightsalmon;
+}
+
+.img {
+ float: left
+}
+body {
+background-color: dimgrey;
+
+}
