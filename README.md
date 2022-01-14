@@ -10,7 +10,7 @@ Technologies Used
 * Markdown
 
 Description
-This website displays information about a bands website and tells you about my background of the artist. It was constructed with the guidance of Epicodus. The website does not currently incorporate javascript.
+This website displays information about a bands website and tells you about my background of the artist. It was constructed with the guidance of Epicodus and was co-authored by a classmate Cameron Ray. The website does not currently incorporate javascript.
 
 Setup/Installation Requirements
 * Clone (git clone )or download the repository
